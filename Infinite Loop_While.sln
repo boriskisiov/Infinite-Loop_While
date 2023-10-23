@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite Loop_While", "Infinite Loop_While\Infinite Loop_While.csproj", "{4255DF53-98B0-4101-9E3A-47D0F209B53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4255DF53-98B0-4101-9E3A-47D0F209B53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4255DF53-98B0-4101-9E3A-47D0F209B53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4255DF53-98B0-4101-9E3A-47D0F209B53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4255DF53-98B0-4101-9E3A-47D0F209B53C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74E41301-E024-4805-9463-20CE90195F5F}
+	EndGlobalSection
+EndGlobal
